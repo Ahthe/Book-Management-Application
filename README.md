@@ -27,12 +27,6 @@ A simple C# Windows Forms application for managing a basic book collection.
 * The file paths for reading and writing (`Books.dat`, `Books.csv`)  are hardcoded. You might want to make these configurable for flexibility.
 * This project is a good starting point for exploring C# Windows Forms, file I/O, and object-oriented concepts. 
 
-## 💡 Working for Expansion
-
-* **Persistent Data:**  Implement the use of a database to store the book list between sessions.
-* **Enhanced UI:**  Improve the user interface for a better experience.
-* **Search/Sorting:**  Add features to search or sort the book collection.  
-
 ## 🙋‍♂️ About the Author
 
 This project was created by Ahthesham Ali Syed. 
